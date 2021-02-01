@@ -1,4 +1,5 @@
 # NPX-NodeJS-MySQL
+
 This is the project named `NPX-NodeJS-MySQL` that includes `NPX` modules in this project.
 
 ## Project Configuration
